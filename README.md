@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasan Ramyanath</h1>
-<h3 align="center">AI/ML Engineer | DevOps Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Passionate about building things with code and learning new technologies</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasanramyanath&label=Profile%20views&color=0e75b6&style=flat" alt="pasanramyanath" />
@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on **[Infant Guardian](https://github.com/PasanRamyanath/Infant-Guardian)**
 - 🌱 Exploring **Deep Learning, Azure Cloud, Spiking Neural Networks, Software Architecture**
-- 🤝 Open to collaborations on **Spiking Neural Networks research**
+- 🤝 Currently researching about **Spiking Neural Networks research**
 - 🌐 Portfolio → **https://pasanramyanath.dev**
 - 📫 Email → **pjramyanath@gmail.com**
 
@@ -20,12 +20,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/pasan_ramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40px"/></a>
+<a href="https://github.com/PasanRamyanath" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40px"/></a>
 <a href="https://linkedin.com/in/pasan-ramyanath-b742031b5" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40px"/></a>
+<a href="https://twitter.com/pasan_ramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40px"/></a>
+<a href="https://www.hackerrank.com/pasanramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="40px"/></a>
+<a href="https://youtube.com/@pasanramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40px"/></a>
 <a href="https://facebook.com/pasanrox123" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40px"/></a>
 <a href="https://instagram.com/pjr_123" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40px"/></a>
-<a href="https://youtube.com/@pasanramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40px"/></a>
-<a href="https://www.hackerrank.com/pasanramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="40px"/></a>
 </p>
 
 ---
