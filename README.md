@@ -1,85 +1,100 @@
-<!--
-  README: Pasan Ramyanath — Creative Profile README
-  Drop this file into the root of your github profile repo: github.com/PasanRamyanath/PasanRamyanath
--->
+<h1 align="center">Hi 👋, I'm Pasan Ramyanath</h1>
+<h3 align="center">AI/ML Engineer | DevOps Enthusiast | Full-Stack Developer</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PasanRamyanath&color=00e6e6" alt="Profile views" />
-  <h1 style="margin-bottom:0.25rem;">Hi — I'm <strong>Pasan Ramyanath</strong> 👋</h1>
-  <p style="margin-top:0.25rem; font-size:1.05rem;">AI/ML Engineer • DevOps Enthusiast • Full-Stack Builder • Embedded AI Researcher</p>
-
-  <!-- Badges -->
-  <p>
-    <a href="https://pasanramyanath.dev" target="_blank">
-      <img alt="Website" src="https://img.shields.io/website?label=pasanramyanath.dev&style=for-the-badge&url=https%3A%2F%2Fpasanramyanath.dev" />
-    </a>
-    <a href="https://github.com/PasanRamyanath" target="_blank">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/PasanRamyanath?label=Follow&style=for-the-badge&logo=github" />
-    </a>
-    <a href="https://www.linkedin.com/in/pasan-ramyanath-b742031b5" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-    </a>
-    <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-14b8a6?style=for-the-badge" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pasanramyanath&label=Profile%20views&color=0e75b6&style=flat" alt="pasanramyanath" />
+</p>
 
 ---
 
-## ✨ Quick TL;DR
-- 🎓 BSc (Hons) Computer Science — Uva Wellassa University (CGPA: 3.94/4.0)  
-- 🔬 Researching **Spiking Neural Networks (SNNs)** on ARM / Jetson Nano for Edge AI  
-- 🛠️ I build **ML models**, **embed them on devices**, and deploy **cloud-native** microservices  
-- 🎸 Outside work: I play guitar, build VR demos, and tinker with hardware
+### 🚀 About Me
+
+- 🔭 Currently working on **[Infant Guardian](https://github.com/PasanRamyanath/Infant-Guardian)**  
+- 🌱 Learning **Deep Learning, Azure Cloud, Spiking Neural Networks, Software Architecture**  
+- 🤝 Looking for collaborators on **Spiking Neural Networks research**  
+- 🌐 Portfolio: **https://pasanramyanath.dev**  
+- 📫 Email: **pjramyanath@gmail.com**  
 
 ---
 
-## 🎨 Personal Developer Snapshot
+## 🌐 Connect With Me
 
-> I design systems where model weights meet product UX — from a YOLOv8 detection loop to a CI/CD pipeline that deploys it on Azure. I love trading latency for insight and shipping reproducible experiments.
-
----
-
-## 🧰 Tools & Technologies
-
-| Machine Learning | Embedded & Edge | Cloud & DevOps | Web & Backend | Databases |
-|---|---|---:|---|---|
-| TensorFlow, PyTorch, YOLOv8, Keras | NVIDIA Jetson Nano, ESP32-S3, TensorFlow Lite, Edge Impulse | Azure, OCI, GitHub Actions, Docker | React, Node.js, Django, Flask, Express | PostgreSQL, MongoDB, MySQL, Firebase, Room DB |
-
-> Tip: Hover over the sections in your mind — if it makes you want to spin up a tiny experiment, it's the right tech.
+<p align="left">
+<a href="https://twitter.com/pasan_ramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40px"/></a>
+<a href="https://linkedin.com/in/pasan-ramyanath-b742031b5" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40px"/></a>
+<a href="https://facebook.com/pasan.ramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40px"/></a>
+<a href="https://instagram.com/pjr_123" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40px"/></a>
+<a href="https://youtube.com/@pasanramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40px"/></a>
+<a href="https://www.hackerrank.com/pasanramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="40px"/></a>
+</p>
 
 ---
 
-## 🚀 Featured Work (pick any to explore)
+## 🛠️ Languages & Tools
 
-### Seagrass Sri Lanka — AI + Cloud (📦 Production-ish)
-- **Stack:** YOLOv8, PyTorch, Flask, Django, React, Azure, PostgreSQL  
-- Automated seagrass species detection and a community portal with AI content tools.  
-- Repo: https://github.com/PasanRamyanath/Seagrass_Srilanka-Backend
+### **💻 Programming**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,kotlin,php" />
+</p>
 
-### Harmonic Campus — Music Education + Real-time AI (🎧)
-- **Stack:** TensorFlow.js, Magenta.js, React, Node, MongoDB  
-- Real-time pitch detection + on-device transcription for private, instant feedback.  
-- Repo: https://github.com/PasanRamyanath/Harmonic_Campus-Frontend
+### **🧠 AI/ML**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
 
-### Infant Guardian — Edge Cry Detection (🍼)
-- **Stack:** Edge Impulse, TensorFlow Lite, ESP32-S3, Kotlin mobile app  
-- Binary cry detection model (90.32% accuracy) + cloud inference pipeline planned.  
-- Repo: https://github.com/PasanRamyanath/Infant-Guardian
+### **🌐 Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
+### **🗄️ Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" />
+</p>
 
-## 📦 What I’m Building Right Now
-- **SNN benchmarking suite** (Jetson nano)  
-- **Realtime audio transcription UX** for music learners using TF.js & Magenta  
+### **☁️ Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,git,github,linux" />
+</p>
+
+### **🔧 Other Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=qt,figma,postman,arduino,blender,mysql,matlab" />
+</p>
 
 ---
 
-## 🎯 Recent Wins & Certs
-- Oracle Cloud Infrastructure — DevOps Professional & Developer Professional  
-- OCI AI Foundations Associate  
-- MySQL 8.0 DBA (Oracle)  
-- Jenkins (Linux Foundation)  
-- Datacamp: GitHub Foundations
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasanramyanath&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasanramyanath&layout=compact&theme=tokyonight" height="170" />
+</p>
 
 ---
 
-## 🧭 How I Organize Projects (My Mental Repo Template)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pasanramyanath&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pasanramyanath&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 👶 Infant Guardian
+AI-powered cry detection + mobile app  
+👉 GitHub: https://github.com/PasanRamyanath/Infant-Guardian  
+
+---
+
+<p align="center">⭐ If you like my work, feel free to star my repositories!</p>
