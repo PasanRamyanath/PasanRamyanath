@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Spiking Neural Networks**
 
-- 👨‍💻 All of my projects are available at [pasanramyanath.dev](pasanramyanath.dev)
+- 👨‍💻 All of my projects are available at [pasanramyanath.dev](https://www.pasanramyanath.dev/)
 
 - 📫 How to reach me **pjramyanath@gmail.com**
 
