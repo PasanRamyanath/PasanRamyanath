@@ -1,33 +1,85 @@
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> I'm Pasan Ramyanath</h1>
-[cite_start]<h3 align="center">AI/ML Engineer, DevOps Enthusiast, and Software Developer [cite: 3, 70, 146]</h3>
+<!--
+  README: Pasan Ramyanath — Creative Profile README
+  Drop this file into the root of your github profile repo: github.com/PasanRamyanath/PasanRamyanath
+-->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PasanRamyanath&color=00e6e6" alt="Profile views" />
+  <h1 style="margin-bottom:0.25rem;">Hi — I'm <strong>Pasan Ramyanath</strong> 👋</h1>
+  <p style="margin-top:0.25rem; font-size:1.05rem;">AI/ML Engineer • DevOps Enthusiast • Full-Stack Builder • Embedded AI Researcher</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanramyanath&label=Profile%20views&color=0e75b6&style=flat" alt="pasanramyanath" /> </p>
+  <!-- Badges -->
+  <p>
+    <a href="https://pasanramyanath.dev" target="_blank">
+      <img alt="Website" src="https://img.shields.io/website?label=pasanramyanath.dev&style=for-the-badge&url=https%3A%2F%2Fpasanramyanath.dev" />
+    </a>
+    <a href="https://github.com/PasanRamyanath" target="_blank">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/PasanRamyanath?label=Follow&style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://www.linkedin.com/in/pasan-ramyanath-b742031b5" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-14b8a6?style=for-the-badge" />
+  </p>
+</div>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+---
 
-- [cite_start]🎓 I'm a Computer Science Undergraduate at **Uva Wellassa University of Sri Lanka** with a **CGPA of 3.94/4.0**[cite: 15, 16, 85, 90, 159].
-- [cite_start]🔭 I’m currently working on **[Infant Guardian](https://github.com/PasanRamyanath/Infant-Guardian)**, an AI-powered cry detection system using Edge Impulse and an ESP32 [cite: 124-129].
-- 🌱 I’m currently learning **Deep Learning**, **Cloud Computing (Azure)**, **Spiking Neural Networks**, and **Software Architecture**.
-- [cite_start]🔬 I'm actively researching the **[Implementation of Spiking Neural Networks on ARM Architecture](pasanramyanath.dev)**, focusing on the NVIDIA Jetson Nano[cite: 32, 97, 163].
-- 🤝 I’m looking for help with **Spiking Neural Networks**.
-- [cite_start]👨‍💻 All of my projects are available at **[pasanramyanath.dev](https://pasanramyanath.dev)**[cite: 3, 71, 146].
-- [cite_start]📫 How to reach me: **pjramyanath@gmail.com**[cite: 3, 71, 146].
-- [cite_start]🎸 Fun fact: I'm passionate about music too. (UWU)[cite: 54, 182].
+## ✨ Quick TL;DR
+- 🎓 BSc (Hons) Computer Science — Uva Wellassa University (CGPA: 3.94/4.0)  
+- 🔬 Researching **Spiking Neural Networks (SNNs)** on ARM / Jetson Nano for Edge AI  
+- 🛠️ I build **ML models**, **embed them on devices**, and deploy **cloud-native** microservices  
+- 🎸 Outside work: I play guitar, build VR demos, and tinker with hardware
 
-<h2 align="left">:hammer_and_wrench: Languages and Tools:</h2>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="httpsopen.cv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h2 align="left">:heart: Let's get connected:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/pasan-ramyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasan-ramyanath" height="30" width="40" /></a>
-<a href="https://github.com/PasanRamyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PasanRamyanath" height="30" width="40" /></a>
-<a href="https://twitter.com/pasan_ramyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasan_ramyanath" height="30" width="40" /></a>
-<a href="https://instagram.com/pjr_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pjr_123" height="30" width="40" /></a>
-<a href="https://fb.com/pasan.ramyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasan.ramyanath" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/PasanRamyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PasanRamyanath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/PasanRamyanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="PasanRamyanath" height="30" width="40" /></a>
-</p>
+## 🎨 Personal Developer Snapshot
+
+> I design systems where model weights meet product UX — from a YOLOv8 detection loop to a CI/CD pipeline that deploys it on Azure. I love trading latency for insight and shipping reproducible experiments.
+
+---
+
+## 🧰 Tools & Technologies
+
+| Machine Learning | Embedded & Edge | Cloud & DevOps | Web & Backend | Databases |
+|---|---|---:|---|---|
+| TensorFlow, PyTorch, YOLOv8, Keras | NVIDIA Jetson Nano, ESP32-S3, TensorFlow Lite, Edge Impulse | Azure, OCI, GitHub Actions, Docker | React, Node.js, Django, Flask, Express | PostgreSQL, MongoDB, MySQL, Firebase, Room DB |
+
+> Tip: Hover over the sections in your mind — if it makes you want to spin up a tiny experiment, it's the right tech.
+
+---
+
+## 🚀 Featured Work (pick any to explore)
+
+### Seagrass Sri Lanka — AI + Cloud (📦 Production-ish)
+- **Stack:** YOLOv8, PyTorch, Flask, Django, React, Azure, PostgreSQL  
+- Automated seagrass species detection and a community portal with AI content tools.  
+- Repo: https://github.com/PasanRamyanath/Seagrass_Srilanka-Backend
+
+### Harmonic Campus — Music Education + Real-time AI (🎧)
+- **Stack:** TensorFlow.js, Magenta.js, React, Node, MongoDB  
+- Real-time pitch detection + on-device transcription for private, instant feedback.  
+- Repo: https://github.com/PasanRamyanath/Harmonic_Campus-Frontend
+
+### Infant Guardian — Edge Cry Detection (🍼)
+- **Stack:** Edge Impulse, TensorFlow Lite, ESP32-S3, Kotlin mobile app  
+- Binary cry detection model (90.32% accuracy) + cloud inference pipeline planned.  
+- Repo: https://github.com/PasanRamyanath/Infant-Guardian
+
+
+## 📦 What I’m Building Right Now
+- **SNN benchmarking suite** (Jetson nano)  
+- **Realtime audio transcription UX** for music learners using TF.js & Magenta  
+
+---
+
+## 🎯 Recent Wins & Certs
+- Oracle Cloud Infrastructure — DevOps Professional & Developer Professional  
+- OCI AI Foundations Associate  
+- MySQL 8.0 DBA (Oracle)  
+- Jenkins (Linux Foundation)  
+- Datacamp: GitHub Foundations
+
+---
+
+## 🧭 How I Organize Projects (My Mental Repo Template)
