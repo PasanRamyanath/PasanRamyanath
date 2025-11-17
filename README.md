@@ -62,14 +62,3 @@
   <img src="https://skillicons.dev/icons?i=qt,figma,postman,arduino,blender,matlab" />
 </p>
 
----
-
-## 🚀 Featured Project
-
-### 👶 **Infant Guardian**
-AI-powered infant cry detection + mobile companion app.  
-👉 Repo: **https://github.com/PasanRamyanath/Infant-Guardian**
-
----
-
-<p align="center">⭐ If you find my work interesting, feel free to star my repositories!</p>
