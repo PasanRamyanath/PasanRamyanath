@@ -20,13 +20,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/PasanRamyanath" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40px"/></a>
-<a href="https://linkedin.com/in/pasan-ramyanath-b742031b5" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40px"/></a>
-<a href="https://twitter.com/pasan_ramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40px"/></a>
-<a href="https://www.hackerrank.com/pasanramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="40px"/></a>
-<a href="https://youtube.com/@pasanramyanath" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40px"/></a>
-<a href="https://facebook.com/pasanrox123" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40px"/></a>
-<a href="https://instagram.com/pjr_123" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40px"/></a>
+<a href="https://twitter.com/pasan_ramyanath" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40px" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/pasan-ramyanath-b742031b5" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40px" alt="LinkedIn"/></a>
+<a href="https://facebook.com/pasanrox123" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" width="40px" alt="Facebook"/></a>
+<a href="https://instagram.com/pjr_123" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40px" alt="Instagram"/></a>
+<a href="https://youtube.com/@pasanramyanath" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40px" alt="YouTube"/></a>
+<a href="https://www.hackerrank.com/pasanramyanath" target="_blank"><img src="https://img.icons8.com/color/48/hackerrank.png" width="40px" alt="HackerRank"/></a>
 </p>
 
 ---
